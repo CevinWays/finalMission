@@ -1,0 +1,1 @@
+const restaurantJson = 'assets/jsons/restaurants.json';
